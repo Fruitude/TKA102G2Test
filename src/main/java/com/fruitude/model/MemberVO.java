@@ -1,4 +1,4 @@
-package com.fruitute.model;
+package com.fruitude.model;
 
 public class MemberVO {
 	private Integer xxx;
