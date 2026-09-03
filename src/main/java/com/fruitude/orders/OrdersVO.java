@@ -1,4 +1,4 @@
-package com.fruitute.orders;
+package com.fruitude.orders;
 
 public class OrdersVO {
 	Integer ordersId;
