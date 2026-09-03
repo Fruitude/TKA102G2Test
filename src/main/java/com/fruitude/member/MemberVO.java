@@ -1,4 +1,4 @@
-package com.fruitute.member;
+package com.fruitude.member;
 
 import java.sql.Date;
 import java.sql.Timestamp;
